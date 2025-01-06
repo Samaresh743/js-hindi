@@ -5,4 +5,12 @@ accountCity = "Jaipur"
 
 //accountId = 2  //not allowed
 
-console.log(accountId)
+//console.log(accountId)
+accountEmail = "hc@c.com"
+accountPassword = "212121"
+accountCity = "bengaluru"
+//console.log();
+
+console.table([accountId, accountEmail, accountPassword, accountCity])
+
+
