@@ -8,9 +8,9 @@ accountCity = "Jaipur"
 //console.log(accountId)
 accountEmail = "hc@c.com"
 accountPassword = "212121"
-accountCity = "bengaluru"
+//accountCity = "bengaluru"
 //console.log();
 
-console.table([accountId, accountEmail, accountPassword, accountCity])
+console.table([accountId, accountEmail, accountPassword])
 
 
