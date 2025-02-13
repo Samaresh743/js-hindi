@@ -10,6 +10,7 @@ let state;
 //null => standalone value
 //undefined => 
     //symbol  => unique
+let s;
 
 //object
 
